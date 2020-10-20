@@ -1,0 +1,372 @@
+Operating System	
+RDBMS	
+Assembly Language	
+Algorithm	
+PascalCase	
+Data Type	
+Web Browser	
+Framework	
+Database	
+Array	
+Register	
+Application	
+Runtime Error	
+Active Directory	
+Word Processor	
+GUI	
+Programming Language	
+DBMS	
+Firmware	
+High-Level Language	
+PowerPoint	
+System Software	
+FPS	
+Program	
+Machine Language	
+Low-Level Language	
+Template	
+Windows	
+Assembler	
+Java	
+File	
+Loop	
+Logic Error	
+Bytecode	
+Syntax Error	
+ISR	
+Software	
+CamelCase	
+Object	
+Cell Reference	
+Encoding	
+Android	
+MVC	
+Desktop	
+Lossy	
+Compression	
+Typecasting	
+Antivirus	
+Flat File	
+BIOS	
+BASIC	
+Checksum	
+Utility	
+Hash	
+Process	
+SMB	
+Lossless	
+Toolbar	
+File Extension	
+Folder	
+Deprecated	
+Title Bar	
+API	
+Malware	
+Script	
+Class	
+SDK	
+Icon	
+Clip Art	
+Recycle Bin	
+Backend	
+File Compression	
+Kernel	
+OCR	
+DOS	
+App	
+Flag	
+Python	
+Query	
+Freeware	
+File Type	
+Active Cell	
+Command Line Interface	
+Race Condition	
+Desktop Publishing	
+OOP	
+Sandboxing	
+Cell	
+Source Code	
+Window	
+Multithreading	
+Runtime	
+OS X	
+Clipboard	
+Wrapper	
+Raw Data	
+WordArt	
+Windows 10	
+RTE	
+Schema	
+Visual Basic	
+Install	
+OLE	
+iTunes	
+Windows 7	
+Backup	
+iOS	
+File Format	
+Executable File	
+Document	
+Driver	
+Repository	
+Pop-Up	
+Ribbon	
+Control Panel	
+Spreadsheet	
+FAT32	
+Shell	
+C/C++	
+Interpreter	
+Relational Database	
+Menu Bar	
+Proprietary Software	
+Spyware	
+Microsoft	
+Keyboard Shortcut	
+Text Box	
+Directory	
+Word Wrap	
+WIMP	
+Filename	
+Wizard	
+Plain Text	
+ANR	
+Compile	
+Deadlock	
+NOS	
+WAMP	
+Registry	
+Rich Text	
+DLC	
+Anti-Aliasing	
+Struct	
+Method	
+Debug	
+Terminal	
+Character Encoding	
+Function	
+RPC	
+Bootstrap	
+Installer	
+Path	
+Index	
+Tab	
+Plug-in	
+Insertion Point	
+Beta Software	
+Command Prompt	
+EPS	
+Default Program	
+Root	
+Task Bar	
+Autofill	
+Dialog Box	
+Mac OS	
+Sprite	
+Autocorrect	
+Codec	
+Opacity	
+Garbage Collection	
+Paste	
+Frontend	
+Heuristic	
+Virus	
+Activation Key	
+Bug	
+Greenfield	
+Subdirectory	
+Windows XP	
+MySQL	
+OpenGL	
+Start Menu	
+GUID	
+Silent Install	
+Unmount	
+Parameter	
+Windows Vista	
+Shareware	
+PUM	
+Snippet	
+Cursor	
+ACL	
+MBR	
+SRE	
+Image Scaling	
+Compiler	
+Processing	
+AIX	
+Waveform	
+Snapchat	
+Virtual Machine	
+Frozen	
+Status Bar	
+WYSIWYG	
+CGI	
+Thumbnail	
+Motion Tween	
+Text Editor	
+Iteration	
+Minimize	
+Native File	
+Spellcheck	
+Drag and Drop	
+Hotfix	
+System Call	
+Add-on	
+Cut	
+Debugger	
+Export	
+Hypervisor	
+Piracy	
+Linux	
+Macro	
+Log File	
+Trojan Horse	
+Keylogger	
+Drop Down Menu	
+Exception	
+Worm	
+Copy	
+Commercial Software	
+Screen Saver	
+Digital Signature	
+Gamma Correction	
+DirectX	
+Golden Master	
+Multitasking	
+Cron	
+Import	
+Minification	
+Maximize	
+Undo	
+File Association	
+Grep	
+Wallpaper	
+Daemon	
+Screenshot	
+Snapshot	
+Media Compression	
+Ripping	
+Alpha Software	
+Win32	
+BSOD	
+SQL	
+Tutorial	
+Public Domain	
+Trash	
+QBE	
+Archive	
+ODBC	
+Excel	
+Reimage	
+PUP	
+Extensible	
+Windows 8	
+QuickTime	
+Favorites	
+Portable Software	
+Toolchain	
+Interactive Video	
+Digital Asset	
+Disk Image	
+C#	
+Perl	
+Virtualization	
+Container	
+SDLC	
+Scrolling	
+Clean Install	
+Dark Mode	
+Metafile	
+GNU	
+Bash	
+Vertical Market Software	
+JRE	
+DCIM	
+Word	
+NetBIOS	
+Remote Desktop	
+Tooltip	
+Service Pack	
+Open Source	
+Readme	
+SharePoint	
+Ruby	
+Unix	
+Crash	
+Skin	
+Microkernel	
+Symbolic Link	
+Dock	
+Pseudocode	
+TWAIN	
+Scroll Bar	
+Emoji	
+Access	
+MAMP	
+JVM	
+Design Pattern	
+Lua	
+Virus Definition	
+Finder	
+Samba	
+Version Control	
+Horizontal Market Software	
+Data Management	
+Dashboard	
+SaaS	
+Mount	
+Spool	
+System Preferences	
+Alert Box	
+UWP	
+KDE	
+Memory Leak	
+WDDM	
+ASO	
+XAML	
+Office	
+LFN	
+Semaphore	
+Widget	
+Gnutella	
+Rootkit	
+JDBC	
+SDS	
+Donationware	
+Systray	
+Illegal Operation	
+SNMP	
+Contextual Menu	
+Abend	
+Mojave	
+Soft Token	
+KOffice	
+Winsock	
+Lion	
+Dual Boot	
+Scareware	
+Bloatware	
+Prebinding	
+Open Firmware	
+Middleware	
+DevOps	
+Direct3D	
+Yosemite	
+Adaptive Content	
+Batch Process	
+Tiger	
+Mavericks	
+Leopard	
+High Sierra	
+Zero Day Exploit	
+El Capitan	
+Windows RT	
+Sierra	
+Rosetta	
+Brownfield	
+Snow Leopard	
+Bare Metal Restore	
+Mountain Lion	
+Technical Debt
